@@ -32,7 +32,7 @@ A simple Android Quiz App built with Jetpack Compose and Kotlin. This app allows
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/chirag23177/Quiz-APp.git
+   git clone https://github.com/chirag23177/Quiz-App.git
    ```
 
 2. **Open the project in Android Studio:**
