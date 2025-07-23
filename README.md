@@ -8,16 +8,6 @@ A simple Android Quiz App built with Jetpack Compose and Kotlin. This app allows
 * Modern UI using Jetpack Compose
 * Score tracking
 * Responsive design for various screen sizes
-* Theming with Material Design
-
-## Tech Stack
-
-* **Kotlin**
-* **Jetpack Compose**
-* **AndroidX Libraries**
-* **Material Design**
-* **Navigation Compose**
-* **Lifecycle Components**
 
 ## Getting Started
 
